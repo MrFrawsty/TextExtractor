@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyRegexUI", "EasyRegexUI\EasyRegexUI.csproj", "{B81A4921-C52B-4441-884A-67352B41BC77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B81A4921-C52B-4441-884A-67352B41BC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81A4921-C52B-4441-884A-67352B41BC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81A4921-C52B-4441-884A-67352B41BC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81A4921-C52B-4441-884A-67352B41BC77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA75BAA5-4085-46F3-A75E-0D6D4EFF9EF4}
+	EndGlobalSection
+EndGlobal
